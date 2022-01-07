@@ -1,0 +1,1 @@
+gameRoot.fadeClip.gotoAndStop("wellDone");

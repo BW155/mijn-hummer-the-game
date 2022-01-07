@@ -1,0 +1,1 @@
+civClip._rotation = myRotation;

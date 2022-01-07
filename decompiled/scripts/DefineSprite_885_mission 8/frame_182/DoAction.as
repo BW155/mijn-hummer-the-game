@@ -1,0 +1,1 @@
+ber.gotoAndPlay("loop");

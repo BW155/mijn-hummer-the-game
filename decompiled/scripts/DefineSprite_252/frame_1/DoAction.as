@@ -1,0 +1,1 @@
+gameRoot.effects.gotoAndPlay("flash");

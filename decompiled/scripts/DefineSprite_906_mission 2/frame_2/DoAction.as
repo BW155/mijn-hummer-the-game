@@ -1,0 +1,2 @@
+han.gotoAndPlay("loop");
+play();

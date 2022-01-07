@@ -1,0 +1,1 @@
+gameRoot.gamePauze = true;
